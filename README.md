@@ -62,3 +62,10 @@ Atualmente este repositório é de uso pessoal, mas se você quiser sugerir melh
 ## 📌 Sobre a DIO
 
 A [Digital Innovation One](https://www.dio.me/) é uma plataforma de educação gratuita para desenvolvedores, que oferece cursos, bootcamps e desafios práticos com foco no mercado de trabalho.
+
+---
+
+<p align="center">
+  Desenvolvido por <strong>Gustavo Ventura</strong> · 
+  <a href="https://www.linkedin.com/in/gtvnv">LinkedIn</a>
+</p>
