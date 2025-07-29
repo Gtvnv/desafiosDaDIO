@@ -23,21 +23,17 @@ Este repositório contém desafios divididos por temas e tecnologias, conforme p
 
 > Cada pasta agrupa os desafios por linguagem ou categoria. Os nomes dos arquivos representam o tema ou problema resolvido.
 
+```
 desafiosDaDIO/
 
 |── java/
-
 |  └─── desafio-nome.java
-
 |── python/
-
 |  └── desafio-nome.py
-
 |── logica/
-
 |  └── desafio-nome.txt
-
 └── README.md
+```
 
 Os desafios estão organizados em pastas nomeadas de acordo com os temas ou cursos da DIO. Dentro de cada pasta, há arquivos com os códigos-fonte, bem como instruções quando necessário.
 
